@@ -6,6 +6,9 @@ I was born and raised in Telangana state from India. I have completed my bachelo
 ## Plans
 I'm not sure about the future but yes I can say one thing that I like programming and will pursue my job related to courses I take.
 ## Links
+[My shell data Processing notes](https://github.com/Rethima-Reddy/shell-data-processing)
+
+## contact me through
 [linkedin](https://www.linkedin.com/in/rethimareddy-polam/) 
 </br>
 [GitHub](https://github.com/Rethima-Reddy)
